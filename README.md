@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Himavarsha!
+
+I am passionate Machine learing engineer with expertise in data analytics, cloud and data visualization tools. I am graduate student in informatics with concertration of analytics at Northeastern University, Boston.
+![Hima's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhimavarsha&show_icons=true&theme=radical)
+
+
+##Skills & Technologies
+Programming: Python
+
 
 <!--
 **mhimavarsha/mhimavarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
