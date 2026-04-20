@@ -1,6 +1,7 @@
 ## Hi, I'm Himavarsha!
 
 I am passionate Machine learing engineer with expertise in data analytics, cloud and data visualization tools. I am graduate student in informatics with concertration of analytics at Northeastern University, Boston.
+Alongside my academic journey, I am working on a side venture with Thaiyari for the company's growth, where I contribute to integrating AI agents into practical applications.
 ![Hima's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhimavarsha&show_icons=true&theme=radical)
 
 
